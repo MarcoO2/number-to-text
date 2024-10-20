@@ -1,6 +1,6 @@
 # Number to Text Translator
 
-This script translates a given number into its textual representation in English (or other languages) and then reads the result aloud using the `pyttsx3` library.
+This script translates a given number into its textual representation in English (or other languages thanks to `deep_translation` library) and then reads the result aloud using the `pyttsx3` library.
 
 ## Features
 
